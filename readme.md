@@ -1,12 +1,10 @@
-# Demo  
+# Demo
 
+some description
 
+## sub header
 
-some description 
-
-## sub header 
-again some description 
-
+again some description
 
 ## web development
 
